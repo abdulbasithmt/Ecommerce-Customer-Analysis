@@ -28,5 +28,8 @@ Analyze e-commerce transaction data to identify revenue trends, customer behavio
 - Increase inventory for peak months like November
 - Expand strategies in high-performing regions like the UK
 
+# Dataset link:
+# https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
 ## 📎 Conclusion
 This project demonstrates how data analysis can help businesses identify revenue drivers and optimize sales strategies.
